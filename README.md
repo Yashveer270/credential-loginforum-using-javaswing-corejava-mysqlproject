@@ -11,3 +11,4 @@ step4-import the sql database query in the server by adding a table to it
 phone VARCHAR(200), address VARCHAR(200), password VARCHAR(200) NOT NULL) )
 step5-use the same values which you inserted in the database.
 step6-RUN
+//add the mysql-connector-java to with your IDE
