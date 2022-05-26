@@ -1,4 +1,4 @@
-# credential-loginforum-using-javaswing-corejava-mysqlproject
+# Credential-loginforum-using-javaswing-corejava-mysql-project
 In this project using java swing features and core java coding a dashbaord login form and registration is created
 this project inclues the concepts of java swing,corejava,mysql(myphp admin).
 the project includes source codes,Graphical user interface,database connectivity.
